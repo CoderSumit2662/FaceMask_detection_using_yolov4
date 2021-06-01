@@ -6,5 +6,5 @@ To overcome this situation, a robust face mask detection needs to be developed. 
 That is why I created a Face Mask detection project using OpenCV (with CUDA support) based on the YOLOv4 algorithm, capable of monitoring the safety level of a space by determining whether the user is wearing a mask or not.
 
 
-# My Colab notebook for FaceMask_detection_using_yolov4
+# My Colab notebook forFaceMask_detection_using_yolov4
 https://colab.research.google.com/drive/1IPPNkQjEaKmNtXrmmR1_MvSTPI8mDy5S#scrollTo=WA2ibe-kFRK7
