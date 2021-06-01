@@ -1,3 +1,4 @@
+![IMG_20210601_085910](https://user-images.githubusercontent.com/68222900/120262800-0ba3fe80-c2b8-11eb-94d8-7d2a35ae7a00.jpg)
 # FaceMask_detection_using_yolov4
 The spread of COVID-19 is increasingly worrying for everyone in the world. This virus can be affected from human to human through the droplets and airborne.According to the instruction from WHO, to reduce the spread of COVID-19, every people need to wear face mask, do social distancing, evade the crowd area and also always maintain the immune system.
 To overcome this situation, a robust face mask detection needs to be developed. In order to detect a face mask, the object detection algorithm can be implemented. The state of art of object detection algorithm which has a robust performance is the You Only Look Once(YOLO).As for the face mask detector method, this work implemented the deep neural network known as YOLO V4.
